@@ -1,7 +1,5 @@
 
-# First Basic 2D Platformer made in Godot
-
-## For Linux users :   
+# First Basic 2D Platformer made in Godot   
 
 ### SpriteFrames not working in Godot 4.2.2 editor unless you double click the SpriteFrame field in Inspector view after its added. 
 ### I am using Linux Mint / Debian. This project was completed by following the free tutorial provided by Brackeys. 
